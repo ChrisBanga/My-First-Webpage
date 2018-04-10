@@ -1,0 +1,21 @@
+h1 {
+  color: #00f;
+  text-align: center;
+  background-size: cover;
+  background-color: grey;
+}
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: left;
+}
+//p {
+  color: white;
+  font-family: sans-serif;
+  background-color: black;
+  line-height: 70px;
+
+}//
+u1 {
+  line-height: 40px;
+}
